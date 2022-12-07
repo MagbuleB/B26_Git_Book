@@ -1,0 +1,21 @@
+
+Hello page 5
+
+Go up to the Git menu and click
+commit
+
+Select the page 5 under the project in commit than write message and commit
+Than check at log history of our repository
+
+Git- share project on gitHup
+Git- open project on gitHup
+
+or
+
+Git-Push
+
+ Add another file
+- Commit the file
+- Now push the file
+- To push a file go to the Git menu -> Push
+- In the next popup click push
