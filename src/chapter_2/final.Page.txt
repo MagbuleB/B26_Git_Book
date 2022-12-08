@@ -1,0 +1,8 @@
+
+
+so far er learned git flow for
+
+commmit->push
+
+remote->local
+pull/update
